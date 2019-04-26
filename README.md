@@ -1,2 +1,2 @@
 # Codecademy-CSS-Projects-
-Codecademy Learn CSS 
+Learn CSS
