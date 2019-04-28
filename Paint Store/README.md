@@ -1,4 +1,4 @@
-# Paint-Store
+# Paint Store 
 Codecademy Learn CSS Colors
 
 To improve a vibrant, color-rich web page for a home paint business. 
