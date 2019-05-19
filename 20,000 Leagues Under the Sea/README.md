@@ -1,4 +1,4 @@
-# Codecademy Transitions - 20,000 Leagues Under the Sea\
+# Codecademy Transitions - 20,000 Leagues Under the Sea
 
 Added animations to an existing static web page. The web page is an online reader; it presents the full text of the book “20,000 Leagues Under the Sea” by Jules Verne.
 
@@ -9,3 +9,5 @@ The page for the first chapter is mostly complete. There are a few fancy feature
 - When you hover over the semi-transparent buttons at the bottom of the page, they turn opaque.
 - When you hover over any link, it changes color.
 
+Check the website here! 
+https://jeannie-thai.github.io/Codecademy-CSS-HTML-Projects/20,000%20Leagues%20Under%20the%20Sea/index.html
