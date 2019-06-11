@@ -1,4 +1,4 @@
-#Codecademy Learn Bootstrap
+# Codecademy Learn Bootstrap
 
 Using fundamentals of Bootstrap grid by piercing together a famous painting, namely Piet Mondrian's Composition II in Red, Blue and Yellow.
 
